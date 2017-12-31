@@ -1,0 +1,429 @@
+*****************YEAR FROM 1987 to 2008**************************
+
+
+Airlines name  ->  HA    Highest Probability for being on schedule-> 0.9037488226519924
+Airlines name  ->  AQ    Highest Probability for being on schedule-> 0.856072656708931
+Airlines name  ->  OO    Highest Probability for being on schedule-> 0.7554147710305529
+
+
+Airlines name ->  OO    Lowest Probability for being on schedule-> 0.07518074618593931
+Airlines name ->  HP    Lowest Probability for being on schedule-> 0.019331817605913296
+Airlines name ->  HP    Lowest Probability for being on schedule-> 0.015062366431066053
+
+Airport name  ->  CKB    Highest average time-> 111.0
+Airport name  ->  LNY    Highest average time-> 48.0
+Airport name  ->  CBM    Highest average time-> 24.0
+
+Airport name ->  MKK    Lowest average time-> 4.0
+Airport name ->  VIS    Lowest average time-> 4.0
+Airport name ->  SPN    Lowest average time-> 3.0
+
+Cancellation Reason  -> Carrier    No of happenings -> 317972
+
+*********************** YEAR FROM 1987 to 2007********************
+
+
+Airlines name  ->  HA    Highest Probability for being on schedule-> 0.9128879691183905
+Airlines name  ->  AQ    Highest Probability for being on schedule-> 0.8529512016973323
+Airlines name  ->  OO    Highest Probability for being on schedule-> 0.7569394622560214
+
+Airlines name ->  OO    Lowest Probability for being on schedule-> 0.09204490090072562
+Airlines name ->  HP    Lowest Probability for being on schedule-> 0.019331817605913296
+Airlines name ->  HP    Lowest Probability for being on schedule-> 0.015062366431066053
+
+Airport name  ->  CKB    Highest average time-> 111.0
+Airport name  ->  LNY    Highest average time-> 48.0
+Airport name  ->  CBM    Highest average time-> 24.0
+
+Airport name ->  MKK    Lowest average time-> 4.0
+Airport name ->  VIS    Lowest average time-> 4.0
+Airport name ->  SPN    Lowest average time-> 3.0
+
+Cancellation Reason  -> Carrier    No of happenings -> 118707
+
+************************ YEAR FROM 1987 to 2006********************
+
+Airlines name  ->  HA    Highest Probability for being on schedule-> 0.9147657213316893
+Airlines name  ->  AQ    Highest Probability for being on schedule-> 0.8366940019223297
+Airlines name  ->  OO    Highest Probability for being on schedule-> 0.7733481367397443
+
+Airlines name ->  OO    Lowest Probability for being on schedule-> 0.1205179140146403
+Airlines name ->  HP    Lowest Probability for being on schedule-> 0.019331817605913296
+Airlines name ->  HP    Lowest Probability for being on schedule-> 0.015062366431066053
+
+Airport name  ->  CKB    Highest average time-> 111.0
+Airport name  ->  LNY    Highest average time-> 48.0
+Airport name  ->  CBM    Highest average time-> 24.0
+
+Airport name ->  VIS    Lowest average time-> 4.0
+Airport name ->  ADK    Lowest average time-> 3.0
+Airport name ->  SPN    Lowest average time-> 3.0
+
+
+Cancellation Reason  -> Carrier    No of happenings -> 174362
+
+***************** YEAR FROM 1987 to 2005***************************
+
+Airlines name  ->  HA    Highest Probability for being on schedule-> 0.9028879691183905
+Airlines name  ->  AQ    Highest Probability for being on schedule-> 0.8529512016973323
+Airlines name  ->  ML    Highest Probability for being on schedule-> 0.8069394622560214
+
+Airlines name ->  PI    Lowest Probability for being on schedule-> 0.07204490090072562
+Airlines name ->  HP    Lowest Probability for being on schedule-> 0.018331817605913296
+Airlines name ->  EV    Lowest Probability for being on schedule-> 0.012062366431066053
+
+Airport name  ->  CKB    Highest average time-> 119.0
+Airport name  ->  LNY    Highest average time-> 48.0
+Airport name  ->  CBM    Highest average time-> 24.0
+
+Airport name ->  VIS    Lowest average time-> 4.0
+Airport name ->  ADK    Lowest average time-> 3.0
+Airport name ->  SPN    Lowest average time-> 3.0
+
+Cancellation Reason  -> Carrier    No of happenings -> 118707
+
+***************** YEAR FROM 1987 t0 2004*****************************
+Airlines name  ->  HA    Highest Probability for being on schedule-> 0.9028879691183905
+Airlines name  ->  OO    Highest Probability for being on schedule-> 0.8329512016986723
+Airlines name  ->  ML    Highest Probability for being on schedule-> 0.8069394784559914
+
+Airlines name ->  PI    Lowest Probability for being on schedule-> 0.09204490090072562
+Airlines name ->  FL    Lowest Probability for being on schedule-> 0.08187212797948578
+Airlines name ->  EV    Lowest Probability for being on schedule-> 0.012062366431066053
+
+Airport name  ->  CKB    Highest average time-> 129.0
+Airport name  ->  LNY    Highest average time-> 48.0
+Airport name  ->  CBM    Highest average time-> 24.0
+
+Airport name ->  MKK    Lowest average time-> 4.0
+Airport name ->  VIS    Lowest average time-> 4.0
+Airport name ->  SPN    Lowest average time-> 3.0
+
+
+
+Cancellation Reason  -> Carrier    No of happenings -> 59357
+
+*****************YEAR FROM 1987 to 2003********************************
+
+Airlines name  ->  HA    Highest Probability for being on schedule-> 0.9028879691183905
+Airlines name  ->  OO    Highest Probability for being on schedule-> 0.8791039748787548
+Airlines name  ->  ML    Highest Probability for being on schedule-> 0.8675934758784739
+
+Airlines name ->  PI    Lowest Probability for being on schedule-> 0.075604490090072562
+Airlines name ->  EV    Lowest Probability for being on schedule-> 0.035819264546538799
+Airlines name ->  PS    Lowest Probability for being on schedule-> 0.017062366431066053
+
+Airport name  ->  ACK    Highest average time-> 18.0
+Airport name  ->  BQN    Highest average time-> 18.0
+Airport name  ->  PUB    Highest average time-> 18.0
+
+Airport name ->  ADK    Lowest average time-> 3.0
+Airport name ->  SPN    Lowest average time-> 3.0
+Airport name ->  OGD    Lowest average time-> 0.0
+
+
+Cancellation Reason - NA
+
+**************** YEAR FROM 1987 to 2002*******************************
+
+Airlines name  ->  NW    Highest Probability for being on schedule-> 0.8928879691183905
+Airlines name  ->  WN    Highest Probability for being on schedule-> 0.7568562348956695
+Airlines name  ->  ML    Highest Probability for being on schedule-> 0.7213646833854785
+
+Airlines name ->  PI    Lowest Probability for being on schedule-> 0.068646774994235467
+Airlines name ->  EV    Lowest Probability for being on schedule-> 0.045519638485487987
+Airlines name ->  PS    Lowest Probability for being on schedule-> 0.019061275487676988
+
+Airport name  ->  ACK    Highest average time-> 21.0
+Airport name  ->  ACY    Highest average time-> 17.0
+Airport name  ->  BQN    Highest average time-> 17.0
+
+Airport name ->  SPN    Lowest average time-> 3.0
+Airport name ->  LNY    Lowest average time-> 0.0
+Airport name ->  MKK    Lowest average time-> 0.0
+
+
+Cancellation Reason - NA
+
+
+***************** YEAR FROM 1987 to 2001*******************************
+
+Airlines name  ->  FL    Highest Probability for being on schedule-> 0.9053583904894725
+Airlines name  ->  WN    Highest Probability for being on schedule-> 0.8074354856881497
+Airlines name  ->  ML    Highest Probability for being on schedule-> 0.7615676879799758
+
+Airlines name ->  AA    Lowest Probability for being on schedule-> 0.075100384754897449
+Airlines name ->  EV    Lowest Probability for being on schedule-> 0.015932967873854784
+Airlines name ->  PS    Lowest Probability for being on schedule-> 0.010397894678579473
+
+Airport name  ->  ACK    Highest average time-> 21.0
+Airport name  ->  BQN    Highest average time-> 17.0
+Airport name  ->  DRO    Highest average time-> 17.0
+
+Airport name ->  SPN    Lowest average time-> 3.0
+Airport name ->  LNY    Lowest average time-> 0.0
+Airport name ->  MKK    Lowest average time-> 0.0
+
+Cancellation Reason - NA
+
+***************** YEAR FROM 1987 to 2000*******************************
+
+Airlines name  ->  FL    Highest Probability for being on schedule-> 0.9517397535858273
+Airlines name  ->  AQ    Highest Probability for being on schedule-> 0.8911980743927597
+Airlines name  ->  ML    Highest Probability for being on schedule-> 0.8017337492696979
+
+Airlines name ->  AQ    Lowest Probability for being on schedule-> 0.071673002298173894
+Airlines name ->  PI    Lowest Probability for being on schedule-> 0.054032616662719739
+Airlines name ->  PS    Lowest Probability for being on schedule-> 0.049173848438771830
+
+Airport name  ->  ACK    Highest average time-> 21.0
+Airport name  ->  DRO    Highest average time-> 17.0
+Airport name  ->  GGG    Highest average time-> 17.0
+
+Airport name ->  SPN    Lowest average time-> 3.0
+Airport name ->  LNY    Lowest average time-> 0.0
+Airport name ->  MKK    Lowest average time-> 0.0
+
+Cancellation Reason - NA
+
+
+***************** YEAR FROM 1987 to 1999*****************************
+
+
+Airlines name  ->  ML    Highest Probability for being on schedule-> 0.9243897569047676
+Airlines name  ->  WN    Highest Probability for being on schedule-> 0.8264573267685499
+Airlines name  ->  FL    Highest Probability for being on schedule-> 0.7221099199268907
+
+Airlines name ->  PI    Lowest Probability for being on schedule-> 0.102147283653428658
+Airlines name ->  PS    Lowest Probability for being on schedule-> 0.079938373456768590
+Airlines name ->  AQ    Lowest Probability for being on schedule-> 0.078926237627534868
+
+
+Airport name  ->  ACK    Highest average time-> 21.0
+Airport name  ->  DRO    Highest average time-> 17.0
+Airport name  ->  GGG    Highest average time-> 17.0
+
+Airport name ->  SPN    Lowest average time-> 3.0
+Airport name ->  LNY    Lowest average time-> 0.0
+Airport name ->  MKK    Lowest average time-> 0.0
+
+Cancellation Reason - NA
+
+*****************1 YEAR FROM 1987 to 1998**************************
+Airlines name  ->  HA    Highest Probability for being on schedule-> 0.9028879691183905
+Airlines name  ->  OO    Highest Probability for being on schedule-> 0.8791039748787548
+Airlines name  ->  ML    Highest Probability for being on schedule-> 0.8675934758784739
+
+Airlines name ->  PI    Lowest Probability for being on schedule-> 0.075604490090072562
+Airlines name ->  EV    Lowest Probability for being on schedule-> 0.035819264546538799
+Airlines name ->  PS    Lowest Probability for being on schedule-> 0.017062366431066053
+
+Airport name  ->  ACK    Highest average time-> 21.0
+Airport name  ->  DRO    Highest average time-> 17.0
+Airport name  ->  GGG    Highest average time-> 17.0
+
+Airport name ->  SPN    Lowest average time-> 3.0
+Airport name ->  LNY    Lowest average time-> 0.0
+Airport name ->  MKK    Lowest average time-> 0.0
+
+Cancellation Reason - NA
+
+
+***************** YEAR FROM 1987 to 1997**************************
+
+
+Airlines name  ->  FL    Highest Probability for being on schedule-> 0.9120712387239735
+Airlines name  ->  WN    Highest Probability for being on schedule-> 0.8901495686563892
+Airlines name  ->  EA    Highest Probability for being on schedule-> 0.7192736457289278
+
+Airlines name ->  AQ    Lowest Probability for being on schedule-> 0.278193728721848389
+Airlines name ->  PS    Lowest Probability for being on schedule-> 0.099374645781998669
+Airlines name ->  HP    Lowest Probability for being on schedule-> 0.075446719384766839
+
+Airport name ->  DAL    Lowest average time-> 4.0
+Airport name ->  KSM    Lowest average time-> 4.0
+Airport name ->  SPN    Lowest average time-> 3.0
+
+Airport name  ->  ACK    Highest average time-> 20.0
+Airport name  ->  DRO    Highest average time-> 18.0
+Airport name  ->  BQN    Highest average time-> 16.0
+
+Cancellation Reason - NA
+
+***************** YEAR FROM 1987 to 1996**************************
+
+Airlines name  ->  MQ    Highest Probability for being on schedule-> 0.8109439357854379
+Airlines name  ->  WN    Highest Probability for being on schedule-> 0.7001413521221619
+Airlines name  ->  EA    Highest Probability for being on schedule-> 0.6912723874858247
+
+Airlines name ->  NW    Lowest Probability for being on schedule-> 0.180398497687980328
+Airlines name ->  PS    Lowest Probability for being on schedule-> 0.099893932788566326
+Airlines name ->  HP    Lowest Probability for being on schedule-> 0.072473294599490968
+
+Airport name ->  MKK    Lowest average time-> 4.0
+Airport name ->  VIS    Lowest average time-> 4.0
+Airport name ->  SPN    Lowest average time-> 3.0
+
+Airport name ->  DAL    Lowest average time-> 4.0
+Airport name ->  KSM    Lowest average time-> 4.0
+Airport name ->  SPN    Lowest average time-> 3.0
+
+Cancellation Reason - NA
+
+*****************YEAR FROM 1987 to 1995**************************
+
+
+Airlines name  ->  MQ    Highest Probability for being on schedule-> 0.8109439357854379
+Airlines name  ->  WN    Highest Probability for being on schedule-> 0.7001413521221619
+Airlines name  ->  EA    Highest Probability for being on schedule-> 0.6912723874858247
+
+Airlines name ->  NW    Lowest Probability for being on schedule-> 0.180398497687980328
+Airlines name ->  PS    Lowest Probability for being on schedule-> 0.099893932788566326
+Airlines name ->  HP    Lowest Probability for being on schedule-> 0.072473294599490968
+
+Airport name ->  DAL    Lowest average time-> 4.0
+Airport name ->  KSM    Lowest average time-> 4.0
+Airport name ->  SPN    Lowest average time-> 3.0
+
+Airport name ->  KSM    Lowest average time-> 4.0
+Airport name ->  WRG    Lowest average time-> 4.0
+Airport name ->  SPN    Lowest average time-> 3.0
+
+Cancellation Reason - NA
+
+*****************YEAR FROM 1987 to 1994**************************
+
+Airlines name  ->  AA    Highest Probability for being on schedule-> 0.865892748197482
+Airlines name  ->  PA    Highest Probability for being on schedule-> 0.785268908643267
+Airlines name  ->  EA    Highest Probability for being on schedule-> 0.664246890874378
+
+Airlines name ->  PS    Lowest Probability for being on schedule-> 0.17153278365845688
+Airlines name ->  NW    Lowest Probability for being on schedule-> 0.01982182731864847
+Airlines name ->  MQ    Lowest Probability for being on schedule-> 0.1094374481
+
+Airport Average taxi IN and OUT - NA
+
+Cancellation Reason - NA
+
+
+*****************YEAR FROM 1987 to 1993**************************
+
+
+Airlines name  ->  HP    Highest Probability for being on schedule-> 0.748240198754023
+Airlines name  ->  WN    Highest Probability for being on schedule-> 0.7418569625858041
+Airlines name  ->  AA    Highest Probability for being on schedule-> 0.7411505716419683
+
+
+Airlines name ->  NW    Lowest Probability for being on schedule-> 0.12034157705409398
+Airlines name ->  HP    Lowest Probability for being on schedule-> 0.08130728764751276
+Airlines name ->  HP    Lowest Probability for being on schedule-> 0.06335049217970676
+
+
+Airport Average taxi IN and OUT - NA
+
+Cancellation Reason - NA
+
+
+
+*****************YEAR FROM 1987 to 1992**************************
+
+Airlines name  ->  WN    Highest Probability for being on schedule-> 0.7918937285786300
+Airlines name  ->  HP    Highest Probability for being on schedule-> 0.77975279349038668
+Airlines name  ->  NW    Highest Probability for being on schedule-> 0.7473990938354249
+
+Airlines name ->  NW    Lowest Probability for being on schedule-> 0.09634670319949325
+Airlines name ->  HP    Lowest Probability for being on schedule-> 0.0659631261553496
+Airlines name ->  HP    Lowest Probability for being on schedule-> 0.05139510403753234
+
+Airport Average taxi IN and OUT - NA
+
+Cancellation Reason - NA
+
+
+*****************YEAR FROM 1987 to 1991**************************
+
+
+Airlines name  ->  HP    Highest Probability for being on schedule-> 0.748240198754023
+Airlines name  ->  WN    Highest Probability for being on schedule-> 0.7418569625858041
+Airlines name  ->  AA    Highest Probability for being on schedule-> 0.7411505716419683
+
+
+Airlines name ->  NW    Lowest Probability for being on schedule-> 0.12034157705409398
+Airlines name ->  HP    Lowest Probability for being on schedule-> 0.08130728764751276
+Airlines name ->  HP    Lowest Probability for being on schedule-> 0.06335049217970676
+
+Airport Average taxi IN and OUT - NA
+
+
+Cancellation Reason - NA
+
+
+*****************YEAR FROM 1987 to 1990**************************
+
+Airlines name  ->  HP    Highest Probability for being on schedule-> 0.747741270829449
+Airlines name  ->  WN    Highest Probability for being on schedule-> 0.7331140535103081
+Airlines name  ->  AA    Highest Probability for being on schedule-> 0.7324469857906801
+
+
+Airlines name ->  PI    Lowest Probability for being on schedule-> 0.6291142866752725
+Airlines name ->  NW    Lowest Probability for being on schedule-> 0.1732012620907257
+Airlines name ->  NW    Lowest Probability for being on schedule-> 0.12359625958136278
+
+Airport Average taxi IN and OUT - NA
+
+
+Cancellation Reason - NA
+
+
+*****************YEAR FROM 1987 to 1989**************************
+
+
+Airlines name  ->  HP    Highest Probability for being on schedule-> 0.7526057406323534
+Airlines name  ->  WN    Highest Probability for being on schedule-> 0.7428616506210619
+Airlines name  ->  AA    Highest Probability for being on schedule-> 0.7393994105280435
+
+
+Airlines name ->  PI    Lowest Probability for being on schedule-> 0.6291142866752725
+Airlines name ->  NW    Lowest Probability for being on schedule-> 0.16987987504626303
+Airlines name ->  NW    Lowest Probability for being on schedule-> 0.11494657069246392
+
+Airport Average taxi IN and OUT - NA
+
+Cancellation Reason - NA
+
+
+*****************YEAR FROM 1987 to 1988**************************
+
+
+Airlines name  ->  WN    Highest Probability for being on schedule-> 0.7718749515165619
+Airlines name  ->  HP    Highest Probability for being on schedule-> 0.7599834259312889
+Airlines name  ->  AA    Highest Probability for being on schedule-> 0.7517931417114977
+
+
+Airlines name ->  US    Lowest Probability for being on schedule-> 0.6605392640595316
+Airlines name ->  NW    Lowest Probability for being on schedule-> 0.1653621755439992
+Airlines name ->  NW    Lowest Probability for being on schedule-> 0.11397000550980821
+
+
+Airport Average taxi IN and OUT - NA
+
+Cancellation Reason - NA
+
+*****************YEAR 1987**************************
+
+Airlines name  ->  AA    Highest Probability for being on schedule-> 0.7289510420702421
+Airlines name  ->  WN    Highest Probability for being on schedule-> 0.7138432446531038
+Airlines name  ->  EA    Highest Probability for being on schedule-> 0.696354817930355
+
+Airlines name ->  PS    Lowest Probability for being on schedule-> 0.5606455099233641
+Airlines name ->  NW    Lowest Probability for being on schedule-> 0.15595543322524696
+Airlines name ->  NW    Lowest Probability for being on schedule-> 0.10943744815624765
+
+Airport Average taxi IN and OUT - NA
+
+Cancellation Reason - NA
+
+
+
+
+

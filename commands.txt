@@ -1,0 +1,76 @@
+Commands to run Oozie workflow
+
+1. copy input date to hdfs
+#  hadoop fs -put /input inputData
+
+2. oozie workflow run
+ 
+#  oozie job -oozie http://localhost:11000/oozie -config job.properties -run
+
+3. With generated job id check status of the job 
+
+#  oozie job -oozie http://localhost:11000/oozie -info job_id
+
+ 
+
+Steps to install Apache oozie 
+1. download oozie
+wget http://archive.apache.org/dist/oozie/4.1.0/oozie-4.1.0.tar.gz
+
+2. untar
+tar -zxf oozie-4.1.0.tar.gz
+
+3. install maven
+sudo apt-get install maven
+
+4. edit pom.xml
+make hadoop version as 2.3.0
+
+5. distro
+mvn clean package assembly:single -P hadoop-3 -DskipTests
+
+6. move folder 
+cd to oozie-4.1.0/distro/target
+sudo mv oozie-4.1.0 /home/ubuntu/oozie-4.1.0
+
+7. copy jar to libext
+cd /home/ubuntu/oozie-4.1.0/oozie-4.1.0
+mkdir libext
+cp -R /home/ubuntu/oozie-4.1.0/oozie-4.1.0/hadooplibs/hadoop-3/target/hadooplibs/hadooplib-3.0.0-alpha2.oozie-4.1.0/* libext
+
+curl -O http://archive.cloudera.com/gplextras/misc/ext-2.2.zip
+
+prepare war
+ sudo apt-get install zip
+./bin/oozie-setup.sh prepare-war
+
+Edit core-site.xml
+
+<property> 
+         <name>fs.default.name</name> 
+         <value>hdfs://ec2-52-41-138-237.us-west-2.compute.amazonaws.com:9000</value> 
+     </property> 
+  <property> 
+    <name>hadoop.proxyuser.ubuntu.hosts</name> 
+    <value>ec2-52-41-138-237.us-west-2.compute.amazonaws.com</value> 
+  </property> 
+  <property> 
+    <name>hadoop.proxyuser.ubuntu.groups</name> 
+    <value>ubuntu</value> 
+  </property> 
+
+--> upload sharelib to hdfs
+ ./bin/oozie-setup.sh sharelib create -fs hdfs://localhost:9000
+./bin/oozie-setup.sh sharelib create fs -hdfs://ec2-52-41-138-237.us-west-2.compute.amazonaws.com:54310
+
+./bin/ooziedb.sh create -sqlfile oozie.sql –run
+
+./bin/oozied.sh start
+
+./bin/oozied.sh run
+
+
+
+
+
+
